@@ -1,6 +1,7 @@
 # Spring-Notes
 ### What are the advantages of using Spring framework?
 Spring Pros
+
 There are the following advantages of the Spring framework:
 
 Light Weight: Spring is a lightweight framework because of its POJO implementation. It does not force the programmer to inherit any class and implement any interface. With the help of Spring, we can enable powerful, scalable applications using POJOs (Plain Old Java Object).
